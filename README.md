@@ -1,2 +1,2 @@
 # hackerRank
-Some project's from www.hackerrank.com
+Some task's from www.hackerrank.com
